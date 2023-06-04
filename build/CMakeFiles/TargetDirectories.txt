@@ -1,0 +1,3 @@
+/home/enigma/my_proyect/build/CMakeFiles/my_opengl_proyect.dir
+/home/enigma/my_proyect/build/CMakeFiles/edit_cache.dir
+/home/enigma/my_proyect/build/CMakeFiles/rebuild_cache.dir

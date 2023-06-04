@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/enigma/my_proyect/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -o CMakeFiles/my_opengl_proyect.dir/src/main.cpp.o -c /home/enigma/my_proyect/src/main.cpp",
+  "file": "/home/enigma/my_proyect/src/main.cpp",
+  "output": "CMakeFiles/my_opengl_proyect.dir/src/main.cpp.o"
+}
+]
